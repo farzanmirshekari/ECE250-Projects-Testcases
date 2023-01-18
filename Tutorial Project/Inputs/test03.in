@@ -1,5 +1,0 @@
-m -5
-PUSH 5
-PUSH 10
-POP
-EXIT
