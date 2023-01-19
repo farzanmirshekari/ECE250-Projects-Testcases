@@ -4,7 +4,7 @@ This repository contains testcases for ECE250 (Data Structures & Algorithms) pro
 
 <h3>Contributing</h3>
 
-> This repository is maintained by myself (fmirshek@uwaterloo.ca) and hosted on my personal GitHub. In order to add new testcases, pull the repository, make your commits, and then open a pull request. The pull requests will be reviewed by myself, Tristan Parry (tparry@uwaterloo.ca) and upon approval, will be merged.
+> This repository is maintained by myself (fmirshek@uwaterloo.ca) and hosted on my personal GitHub. In order to add new testcases, pull the repository, make your commits, and then open a pull request. The pull requests will be reviewed by Tristan Parry (tparry@uwaterloo.ca) or myself and upon approval, will be merged.
 
 <h3>Formatting</h3>
 
