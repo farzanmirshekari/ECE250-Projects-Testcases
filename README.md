@@ -2,7 +2,7 @@
 
 This repository contains testcases for ECE250 (Data Structures & Algorithms) projects. The repository is meant to be a collaborative effort. Commiting your own testcases to the repository is highly encouraged. This will benefit everyone as we can all make sure that our implementation is viable against a more comprehensive input set. Feel free to pull the repository and run your project code against the testcases available. For information on how to contribute, please read the instructions below.
 
-This will soon be merged in some capacity with https://github.com/JZJisawesome/ece250-testcases.
+This will soon be merged in some capacity with <a href = 'https://github.com/JZJisawesome/ece250-testcases'>here</a>.
 
 <h3>Contributing</h3>
 
